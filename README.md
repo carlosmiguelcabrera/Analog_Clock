@@ -1,8 +1,8 @@
-# Analog Clock Tribute Page
+# Analog Clock App
 
-This project is a tribute page that showcases a simplistic analog clock, inspired by FreeCodeCamp's curriculum. It demonstrates basic HTML, CSS, and JavaScript skills while providing an interactive analog clock experience.
+This project is a tribute page that showcases a analog clock, inspired by FreeCodeCamp's curriculum. It demonstrates HTML, CSS, and JavaScript skills while providing an interactive analog clock experience.
 
-You can view the live tribute page [here](https://carlosmiguelcabrera.github.io/Reloj_Analogo/).
+You can view the live page [here](https://carlosmiguelcabrera.github.io/Reloj_Analogo/).
 
 ## Objectives
 
@@ -12,7 +12,7 @@ The project is built using straightforward HTML and CSS. While the use of JavaSc
 
 ## Installation and Usage
 
-There's no need for any installation to experience the tribute page. To view the clock in action, simply navigate to the provided URL and the analog clock will be displayed, complete with smoothly moving hour, minute, and second hands.
+There's no need for any installation. To view the clock in action, simply navigate to the provided URL and the analog clock will be displayed, complete with smoothly moving hour, minute, and second hands.
 
 For those interested in exploring the code or making changes, the HTML and CSS files can be opened in your favorite text editor.
 
