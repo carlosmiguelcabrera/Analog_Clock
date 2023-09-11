@@ -6,7 +6,7 @@ You can view the live page [here](https://carlosmiguelcabrera.github.io/Reloj_An
 
 ## Objectives
 
-The project is built using straightforward HTML and CSS. While the use of JavaScript, Bootstrap, Sass, and similar technologies is optional, learners who are comfortable with these tools are encouraged to explore them.
+The project is built using straightforward HTML, CSS and JavaScript, Bootstrap, Sass, and similar technologies is optional, learners who are comfortable with these tools are encouraged to explore them.
 
 ## Installation and Usage
 
