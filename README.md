@@ -1,12 +1,10 @@
 # Analog Clock App
 
-This project is a tribute page that showcases a analog clock, inspired by FreeCodeCamp's curriculum. It demonstrates HTML, CSS, and JavaScript skills while providing an interactive analog clock experience.
+This project is a page that showcases a analog clock, inspired by FreeCodeCamp's curriculum. It demonstrates HTML, CSS, and JavaScript skills while providing an interactive analog clock experience.
 
 You can view the live page [here](https://carlosmiguelcabrera.github.io/Reloj_Analogo/).
 
 ## Objectives
-
-The main objective of this tribute page project is to create a web page reminiscent of the sample page provided by FreeCodeCamp.
 
 The project is built using straightforward HTML and CSS. While the use of JavaScript, Bootstrap, Sass, and similar technologies is optional, learners who are comfortable with these tools are encouraged to explore them.
 
