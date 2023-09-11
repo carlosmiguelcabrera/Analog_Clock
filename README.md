@@ -2,7 +2,7 @@
 
 This project is a webpage that showcases an analog clock. It demonstrates HTML, CSS, and JavaScript skills while providing an interactive analog clock experience.
 
-You can view the live page [here](https://analog-clock-proyect.netlify.app/).
+You can view the live page [here](https://analog-clock-proyect.netlify.app/){:target="_blank"}.
 
 ## Objectives
 
